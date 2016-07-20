@@ -1,0 +1,18 @@
+div>div>div{
+	background-color: #395; /*verde*/
+	padding: 10px 30px;
+}
+
+div>div{
+	background-color: #829;
+	margin: 10px 30px 50px 40px;
+	padding: 210px 30px; /*morado*/
+}
+
+p{
+	border:2px #403 dashed;
+	font-size: 30px;
+	padding: 20px;
+	background-color: #a5f
+}
+
